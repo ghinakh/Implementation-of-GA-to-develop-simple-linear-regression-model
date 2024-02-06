@@ -1,0 +1,1 @@
+# Implementation-of-GA-to-develop-simple-linear-regression-model
